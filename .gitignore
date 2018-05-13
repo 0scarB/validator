@@ -1,4 +1,9 @@
 __pycache__/
+
+# Distrobution / packaging
 dist/
 *.egg-info/
 *.egg
+
+# Testing
+.pytest_cache/
