@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Validator
+description: A validator for strings and parameters in python with comprehensible error messages
