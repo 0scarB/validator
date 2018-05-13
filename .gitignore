@@ -7,3 +7,7 @@ dist/
 
 # Testing
 .pytest_cache/
+
+# jekyll
+docs/_site/
+docs/.sass-cache/
