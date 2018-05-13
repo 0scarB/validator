@@ -8,6 +8,8 @@ name = "pypi"
 [dev-packages]
 setuptools = "*"
 pytest = "*"
+coverage = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.6"
